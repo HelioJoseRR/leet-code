@@ -6,7 +6,7 @@ Repositório com soluções para desafios do **LeetCode**, organizado por lingua
 <número>.<extensão da linguagem>
 ```
 
-Exemplo: `1.kt`, `2.js`, `3.ts`  
+Exemplo: `1.kt`, `2.js`, `3.ts`, `4.sql`
 
 ## 🚀 Estrutura do Repositório
 
@@ -29,6 +29,11 @@ leet-code/
 │   ├─ 2.ts
 │   └─ ...
 │
+├─ postgresql/  
+│   ├─ 1.sql
+│   ├─ 2.sql
+│   └─ ...
+│
 └─ README.md        # Este arquivo
 
 ```
@@ -49,3 +54,8 @@ leet-code/
 | Número | Questão | Código | Status |
 |--------|---------|--------|--------|
 | 696    | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings) | [código](./typescript/696.ts) | ✅ Concluído |
+
+### PostgreSQL
+| Número | Questão | Código | Status |
+|--------|---------|--------|--------|
+| 175    | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables) | [código](./postgresql/175.sql) | ✅ Concluído |
