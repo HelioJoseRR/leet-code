@@ -43,9 +43,9 @@ leet-code/
 ### JavaScript
 | Número | Questão | Código | Status |
 |--------|---------|--------|--------|
-| 696    | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings) | [código](./javascript/696.js) |❌ Não Concluído |
+| 696    | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings) | [código](./javascript/696.js) | ✅ Concluído |
 
 ### TypeScript
 | Número | Questão | Código | Status |
 |--------|---------|--------|--------|
-| 696    | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings) | [código](./typescript/696.ts) |❌ Não Concluído |
+| 696    | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings) | [código](./typescript/696.ts) | ✅ Concluído |
