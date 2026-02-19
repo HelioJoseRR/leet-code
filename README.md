@@ -36,16 +36,16 @@ leet-code/
 ## 📝 Índice de Questões
 
 ### Kotlin
-| Número | Questão | Status |
-|--------|---------|--------|
-| 696    | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings) | ✅ Concluído |
+| Número | Questão | Código | Status |
+|--------|---------|--------|--------|
+| 696    | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings) | [código](./kotlin/696.kt) | ✅ Concluído |
 
 ### JavaScript
-| Número | Questão | Status |
-|--------|---------|--------|
-| 696    | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings) | ❌ Não Concluído |
+| Número | Questão | Código | Status |
+|--------|---------|--------|--------|
+| 696    | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings) | [código](./javascript/696.js) |❌ Não Concluído |
 
 ### TypeScript
-| Número | Questão | Status |
-|--------|---------|--------|
-| 696    | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings) | ❌ Não Concluído |
+| Número | Questão | Código | Status |
+|--------|---------|--------|--------|
+| 696    | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings) | [código](./typescript/696.ts) |❌ Não Concluído |
