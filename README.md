@@ -44,18 +44,22 @@ leet-code/
 | Número | Questão | Código | Status |
 |--------|---------|--------|--------|
 | 696    | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings) | [código](./kotlin/696.kt) | ✅ Concluído |
+| 761    | [Special Binary String](https://leetcode.com/problems/special-binary-string) | [código](./kotlin/761.kt) | ✅ Concluído |
 
 ### JavaScript
 | Número | Questão | Código | Status |
 |--------|---------|--------|--------|
 | 696    | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings) | [código](./javascript/696.js) | ✅ Concluído |
+| 761    | [Special Binary String](https://leetcode.com/problems/special-binary-string) | [código](./javascript/761.js) | ✅ Concluído |
 
 ### TypeScript
 | Número | Questão | Código | Status |
 |--------|---------|--------|--------|
 | 696    | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings) | [código](./typescript/696.ts) | ✅ Concluído |
+| 761    | [Special Binary String](https://leetcode.com/problems/special-binary-string) | [código](./typescript/761.ts) | ✅ Concluído |
 
 ### PostgreSQL
 | Número | Questão | Código | Status |
 |--------|---------|--------|--------|
 | 175    | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables) | [código](./postgresql/175.sql) | ✅ Concluído |
+| 181    | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers) | [código](./postgresql/181.sql) | ✅ Concluído |
