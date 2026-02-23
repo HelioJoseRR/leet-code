@@ -52,7 +52,7 @@ leet-code/
 ### JavaScript
 | Número | Questão | Código | Status |
 |--------|---------|--------|--------|
-| 2      | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | - | 🔜 Futuro |
+| 2      | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [código](./javascript/2.js) | ✅ Concluído |
 | 696    | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings) | [código](./javascript/696.js) | ✅ Concluído |
 | 761    | [Special Binary String](https://leetcode.com/problems/special-binary-string) | [código](./javascript/761.js) | ✅ Concluído |
 | 762    | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [código](./javascript/762.js) | ✅ Concluído |
@@ -61,7 +61,7 @@ leet-code/
 ### TypeScript
 | Número | Questão | Código | Status |
 |--------|---------|--------|--------|
-| 2      | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | - | 🔜 Futuro |
+| 2      | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [código](./typescript/2.ts) | ✅ Concluído |
 | 696    | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings) | [código](./typescript/696.ts) | ✅ Concluído |
 | 761    | [Special Binary String](https://leetcode.com/problems/special-binary-string) | [código](./typescript/761.ts) | ✅ Concluído |
 | 762    | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [código](./typescript/762.TS) | ✅ Concluído |
