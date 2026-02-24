@@ -48,6 +48,7 @@ leet-code/
 | 761    | [Special Binary String](https://leetcode.com/problems/special-binary-string) | [código](./kotlin/761.kt) | ✅ Concluído |
 | 762    | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [código](./kotlin/762.kt) | ✅ Concluído |
 | 868    | [Binary Gap](https://leetcode.com/problems/binary-gap) | [código](./kotlin/868.kt) | ✅ Concluído |
+| 1461   | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/description/) | [código](./kotlin/1461.kt) | ✅ Concluído |
 
 ### JavaScript
 | Número | Questão | Código | Status |
@@ -57,6 +58,7 @@ leet-code/
 | 761    | [Special Binary String](https://leetcode.com/problems/special-binary-string) | [código](./javascript/761.js) | ✅ Concluído |
 | 762    | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [código](./javascript/762.js) | ✅ Concluído |
 | 868    | [Binary Gap](https://leetcode.com/problems/binary-gap) | [código](./javascript/868.js) | ✅ Concluído |
+| 1461   | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/description/) | [código](./javascript/1461.js) | ✅ Concluído |
 
 ### TypeScript
 | Número | Questão | Código | Status |
@@ -66,6 +68,7 @@ leet-code/
 | 761    | [Special Binary String](https://leetcode.com/problems/special-binary-string) | [código](./typescript/761.ts) | ✅ Concluído |
 | 762    | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [código](./typescript/762.TS) | ✅ Concluído |
 | 868    | [Binary Gap](https://leetcode.com/problems/binary-gap) | [código](./typescript/868.ts) | ✅ Concluído |
+| 1461   | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/description/) | [código](./typescript/1461.ts) | ✅ Concluído |
 
 ### PostgreSQL
 | Número | Questão | Código | Status |
