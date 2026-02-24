@@ -48,6 +48,7 @@ leet-code/
 | 761    | [Special Binary String](https://leetcode.com/problems/special-binary-string) | [código](./kotlin/761.kt) | ✅ Concluído |
 | 762    | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [código](./kotlin/762.kt) | ✅ Concluído |
 | 868    | [Binary Gap](https://leetcode.com/problems/binary-gap) | [código](./kotlin/868.kt) | ✅ Concluído |
+| 1022   | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/description/) | [código](./kotlin/1022.kt) | ✅ Concluído |
 | 1461   | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/description/) | [código](./kotlin/1461.kt) | ✅ Concluído |
 
 ### JavaScript
@@ -58,6 +59,7 @@ leet-code/
 | 761    | [Special Binary String](https://leetcode.com/problems/special-binary-string) | [código](./javascript/761.js) | ✅ Concluído |
 | 762    | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [código](./javascript/762.js) | ✅ Concluído |
 | 868    | [Binary Gap](https://leetcode.com/problems/binary-gap) | [código](./javascript/868.js) | ✅ Concluído |
+| 1022   | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/description/) | [código](./javascript/1022.js) | ✅ Concluído |
 | 1461   | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/description/) | [código](./javascript/1461.js) | ✅ Concluído |
 
 ### TypeScript
@@ -68,6 +70,7 @@ leet-code/
 | 761    | [Special Binary String](https://leetcode.com/problems/special-binary-string) | [código](./typescript/761.ts) | ✅ Concluído |
 | 762    | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [código](./typescript/762.TS) | ✅ Concluído |
 | 868    | [Binary Gap](https://leetcode.com/problems/binary-gap) | [código](./typescript/868.ts) | ✅ Concluído |
+| 1022   | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/description/) | [código](./typescript/1022.ts) | ✅ Concluído |
 | 1461   | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/description/) | [código](./typescript/1461.ts) | ✅ Concluído |
 
 ### PostgreSQL
@@ -77,3 +80,4 @@ leet-code/
 | 181    | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers) | [código](./postgresql/181.sql) | ✅ Concluído |
 | 182    | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [código](./postgresql/182.sql) | ✅ Concluído |
 | 183    | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order) | [código](./postgresql/183.sql) | ✅ Concluído |
+| 1204   | [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/description/) | [código](./postgresql/1204.sql) | ✅ Concluído |
